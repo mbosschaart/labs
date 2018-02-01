@@ -9,12 +9,12 @@ Orchestration and Automation
 .. toctree::
    :name: _calm_toc
 
-   .. sdlc
-   .. alm
+   sdlc
+   alm
    devops
    orchestration
-   .. docker
-   .. k8s
+   docker
+   k8s
    nucalm_overview
    nucalm_deepdive
    .. nucalm_positioning
@@ -22,10 +22,10 @@ Orchestration and Automation
 
    lab1
    lab2
-   .. lab3
-   .. lab4
-   .. lab5
-   .. lab6
-   .. lab7
+   lab3
+   lab4
+   lab5
+   lab6
+   lab7
    lab8
    .. mission
