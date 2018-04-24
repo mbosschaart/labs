@@ -20,6 +20,8 @@ Overview
 
 In this guide we will setup a Windows Domain Controller, and configure Active Directory Domain Services. We will also create 20 users and a bootcamp users group for them.
 
+Make sure you have already configured the Primary network within the Prism Element setup.
+
 **Note:** You can do either of these depending on if you want to build from scratch or use the one deployed by the HPOC system.
 
 Step 1a — Deploying the Windows 2012R2 Server from scratch
