@@ -172,7 +172,7 @@ We'll now create the basic service.
   Core/vCPU .: 1
   Memory     : 4 GB
 
-- Scroll to the bottom and add the NIC **bootcamp** to the **MYSQL** VM.
+- Scroll to the bottom and add the NIC **Primary** to the **MYSQL** VM.
 - Configure the **Credentials** to use **CENTOS** created earlier.
 
 Package Configuration
